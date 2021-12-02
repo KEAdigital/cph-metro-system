@@ -61,11 +61,12 @@ def readFile(name = 'CphMetroM3.txt'):
     # Arguments:
     # - name: string
     file = open(name, "r")
-    content = file.read()
+    content = file.read(22)
     file.close
+    print(content)
 
-    for i in content:
-        print(i)
+    # for i in content:
+    #     print(i)
 # HERE
 # HERE
 # HERE
