@@ -4,6 +4,7 @@
 # Import modules
 # Built-in os module
 import os
+import time
 # beautifultable 1.0.1 [https://pypi.org/project/beautifultable/]
 from beautifultable import BeautifulTable
 
@@ -11,6 +12,12 @@ from beautifultable import BeautifulTable
 hr = 80*'-'
 msgHello = 'Hello, and welcome to this script'
 msgGoodbye = 'Goodbye, thanks for using me'
+msgClear = 'Oh, how nice with a clear view...'
+# - including dictionary to drive menu choices other than clear/quit
+menuItems = {
+    '1': 'Show number of metro stations',
+    '2': 'Fuck off'
+}
 
 # ------------------------------------------------------------------------------
 # FUNCTION DEFINITIONS
@@ -49,28 +56,77 @@ def drawTable(title, header, data):
     print(title)
     print(table)
 
+def readFile(name = 'CphMetroM3.txt'):
+    # Reads a file
+    # Arguments:
+    # - name: string
+    file = open(name, "r")
+    content = file.read()
+    file.close
+
+    for i in content:
+        print(i)
+# HERE
+# HERE
+# HERE
+    # content = list(content)
+    # stuff = len(content[0])
+    #
+    # return stuff
+# HERE
+# HERE
+# HERE
+
 def showMenu(options = {42: 'Do absolutely nothing'}):
-    # Define menu items in a dictionary, then display the menu
+    # Define and display a menu with options to clear or quit, plus the items given in a dictionary
     # Arguments:
     # - options: dictionary of menu options
     # Return values:
     # - validOptions: list of valid menu options
     print(hr)
     print('Please select from the menu')
-    print('- type C to clear the screen')
-    print('- or type Q to quit')
     print('---MENU---')
+    validOptions = list()
     for choice,text in options.items():
         print(f"{choice}: {text}")
-    print('----------')
-    validOptions = list(options.keys())
-    return validOptions
-
+        validOptions.append(choice)
+    print('- type C to clear the screen')
+    print('- or type Q to quit')
+    print(hr)
+    msg = input('Please enter menu option:\n')
+    if msg in validOptions:
+        return msg
+    elif msg.upper() == 'C':
+        return 'clearScreen'
+    elif msg.upper() == 'Q':
+        return 'quitApp'
+    else:
+        return 'invalid'
 # ------------------------------------------------------------------------------
 # MAIN LOGIC
-menuItems = {
-    1: 'Show number of metro stations',
-    2: 'Fuck off'
-}
 
-showMenu()
+print(hr)
+print(msgHello)
+
+print('Reading a file results in:')
+contents = readFile()
+print(contents)
+
+# while True:
+#     # Call the showMenu function and assign return value to choice
+#     choice = showMenu(menuItems)
+#     time.sleep(1)
+#     if choice == 'quitApp':
+#         break
+#     elif choice == 'clearScreen':
+#         clearScreen()
+#         print(msgClear)
+#     elif choice == 'invalid':
+#         print("invalid choice, please try again!")
+#     else:
+#         print(f"Menu {choice} has not yet been implemented, sorry!")
+
+print(msgGoodbye)
+print(hr)
+# ------------------------------------------------------------------------------
+# end of script
