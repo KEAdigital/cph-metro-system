@@ -44,6 +44,7 @@ Følgende pakker skal installeres i **metro-env**:
 - pip3 install bs4
 - pip3 install requests
 - pip3 install openpyxl
+- pip3 install sqlalchemy (*Hvis du vil eksportere til Azure database*)
 
 ## Afvikling
 Kør Python filen **metro.py**
