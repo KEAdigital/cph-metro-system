@@ -17,7 +17,7 @@ Data bliver eksporteret som:
 - *CSV* - **metro.csv**
 
 ## Opsætning
-Jeg vil anbefale at kode afvikles i et **Virtual Environment**, da det der er nemmere at holde styr på de pakker deres skal installeres.
+Jeg vil anbefale at Python koden afvikles i et **Virtual Environment**, da det der er nemmere at holde styr på de pakker der skal installeres.
 
 ### Virtual Environment
 **Opsætning**:
