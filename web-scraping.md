@@ -10,6 +10,9 @@ Det er følgende informationer, omkring den Københavnske metro, der hentes fra:
 - Type
 - Elevator
 
+## Kode fil
+Python koden er i filen **metro.py**
+
 ## Output
 Data bliver eksporteret som:
 
