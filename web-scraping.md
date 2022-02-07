@@ -24,7 +24,7 @@ Jeg vil anbefale at Python koden afvikles i et **Virtual Environment**, da det d
 
 ### Virtual Environment
 **Opsætning**:
-    python3 -m venv metro-env
+- *python3 -m venv metro-env*
 
 **metro.py**
 - Python kodefilen skal placeres i **metro-env**
