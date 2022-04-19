@@ -56,27 +56,14 @@ def drawTable(title, header, data):
     print(title)
     print(table)
 
-def readFile(name = 'CphMetroM3.txt'):
+def readFile(name = 'CphMetroM3.py'):
     # Reads a file
     # Arguments:
     # - name: string
     file = open(name, "r")
     content = file.read(22)
     file.close
-    print(content)
-
-    # for i in content:
-    #     print(i)
-# HERE
-# HERE
-# HERE
-    # content = list(content)
-    # stuff = len(content[0])
-    #
-    # return stuff
-# HERE
-# HERE
-# HERE
+    print(type(content))
 
 def showMenu(options = {42: 'Do absolutely nothing'}):
     # Define and display a menu with options to clear or quit, plus the items given in a dictionary
@@ -109,9 +96,11 @@ def showMenu(options = {42: 'Do absolutely nothing'}):
 print(hr)
 print(msgHello)
 
-print('Reading a file results in:')
-contents = readFile()
-print(contents)
+print(stations)
+
+# print('Reading a file results in:')
+# contents = readFile()
+# print(contents)
 
 # while True:
 #     # Call the showMenu function and assign return value to choice

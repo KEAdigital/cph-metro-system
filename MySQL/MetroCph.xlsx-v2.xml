@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID</Data></Cell>
+			<Cell><Data ss:Type="String">Name</Data></Cell>
+			<Cell><Data ss:Type="String">Slogan</Data></Cell>
+			<Cell><Data ss:Type="String">QuickFacts</Data></Cell>
+			<Cell><Data ss:Type="String">latitude</Data></Cell>
+			<Cell><Data ss:Type="String">longitude</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Vanløse</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">Side om side med S-togstationen ligger Vanløse Station, som er den vestligst beliggende station på metrolinjerne M1 og M2. Midt i Vanløses rolige forstadsmiljø fungerer Vanløse Station også som en travl omstigningsstation mellem metro og S-tog og skaber med sine hyppige afgange hurtige forbindelser til det centrale København. Stiger du af i Vanløse, kan du blandt andet tage en slentretur på Vanløse Torv, se teater eller høre koncert på Vanløse Kulturstation, eller shoppe i Vanløses indkøbscenter Kronen, som du let kommer til via den direkte adgang i den østlige ende af metroperronen.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.68700</Data></Cell>
+			<Cell><Data ss:Type="Number">12.49300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Flintholm</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.49900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Lindevang</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.51300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Fasanvej</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68200</Data></Cell>
+			<Cell><Data ss:Type="Number">12.52300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Frederiksberg</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68100</Data></Cell>
+			<Cell><Data ss:Type="Number">12.53200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Forum</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68200</Data></Cell>
+			<Cell><Data ss:Type="Number">12.55200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Nørreport</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.68400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Kongens Nytorv</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.67900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Christianshavn</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.67200</Data></Cell>
+			<Cell><Data ss:Type="Number">12.59100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Amagerbro</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.66400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.60300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Lergravsparken</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.66200</Data></Cell>
+			<Cell><Data ss:Type="Number">12.61700</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Øresund</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.66200</Data></Cell>
+			<Cell><Data ss:Type="Number">12.62900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Amager Strand</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.65600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.63200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Femøren</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.64500</Data></Cell>
+			<Cell><Data ss:Type="Number">12.63800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Kastrup</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.63600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.64700</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Københavns Lufthavn</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.63000</Data></Cell>
+			<Cell><Data ss:Type="Number">12.64900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Islands Brygge</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.66400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">DR Byen</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.65600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Sundby</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.64500</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Bella Center</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.63800</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Ørestad</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.62900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Vestamager</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="Number">55.61900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Frederiksberg Allé</Data></Cell>
+			<Cell><Data ss:Type="String">Frederiksberg Allé - en lille smag af Paris</Data></Cell>
+			<Cell><Data ss:Type="String">Fra Frederiksberg Have til Vesterbrogade strækker den lange allé af store lindetræer sig. Mellem træerne finder du hyggelige cafeer og kvalitetsbutikker som Frederiksberg Chokolade eller det nybyggede Madhuset, som placerer sig lige over selve metrostationen.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.67400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.54000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Aksel Møllers Have</Data></Cell>
+			<Cell><Data ss:Type="String">Aksel Møllers Have - caféliv og svømmeture</Data></Cell>
+			<Cell><Data ss:Type="String">Tager du Metroen til Aksel Møllers Have, tager rulletrapperne dig hele vejen til det frederiksbergske café- og butiksliv, der udspiller sig på Godthåbsvej, som løber forbi stationen. Aksel Møllers Have er en af Frederiksbergs grønne byoaser, og stationen ligger få minutters gang fra både Frederiksberg Svømmehal, Frederiksberg Hospital og Frederiksberg Campus.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.68600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.53300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Nuuks Plads</Data></Cell>
+			<Cell><Data ss:Type="String">Nuuks Plads - et nyt byrum nær Nørrebroparken</Data></Cell>
+			<Cell><Data ss:Type="String">Metrostationen ligger på Jagtvej nær Rantzausgade, lige ved det gamle Landsarkiv. En kort gåtur fra stationen ligger Nørrebroparken, hvor der er en stor legeplads, fodboldbaner og Stefansgade pulserende cafémiljø løbende langs parken.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.68900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.54300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Nørrebros Runddel</Data></Cell>
+			<Cell><Data ss:Type="String">Nørrebros Runddel - direkte til byens mest levende kirkegård</Data></Cell>
+			<Cell><Data ss:Type="String">Metrostationen ligger lige ved Nørrebrogade og i det ene hjørne af Assistens Kirkegård. Her kan du enten begive dig ud i Nørrebros gader, eller du kan slentre en tur på den historiske kirkegård, hvor kendtes grave ligger side om side med solbadende nørrebroere.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.69400</Data></Cell>
+			<Cell><Data ss:Type="Number">12.54900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Nørrebro</Data></Cell>
+			<Cell><Data ss:Type="String">Nørrebro station - multikulturelt trafikknudepunkt</Data></Cell>
+			<Cell><Data ss:Type="String">På grænsen mellem Nørrebro og Nordvest finder du Nørrebro Station, som indtil 2019 har fungeret som S-togstation, men som nu har fået selskab af en underjordisk metrostation. Stationen ligger lige i nærheden af Den Røde Plads, hvor Nørrebros lokale står på skateboard, spiller musik, afholder loppemarkeder og meget mere. Nørrebro er et af de fem knudepunkter på Cityringen, der optræder som "via-station", og som angiver kørselsretningen.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.70000</Data></Cell>
+			<Cell><Data ss:Type="Number">12.53800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Skjolds Plads</Data></Cell>
+			<Cell><Data ss:Type="String">Skjolds Plads - smutvejen til videnskab, professionshøjskole og kultur</Data></Cell>
+			<Cell><Data ss:Type="String">Mange studerende vil få glæde af stationen på Skjolds Plads. Både Københavns Professionshøjskole og KU's Science Park ligger tæt på stationen. Få minutters gang fra stationen finder du det aktive kulturhus Osramhuset, mens du også kan komme hurtigt hen til den hyggelige Balders Plads, hvor der ofte afholdes loppemarkeder og jazz-koncerter.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.70300</Data></Cell>
+			<Cell><Data ss:Type="Number">12.54900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Vibenshus Runddel</Data></Cell>
+			<Cell><Data ss:Type="String">Vibenshus Runddel - en smutvej til en aktiv livsstil</Data></Cell>
+			<Cell><Data ss:Type="String">Stationen er nabo til en af Københavns største parker, Fælledparken, der med sine store, grønne områder danner rammen for et idrætsengageret, farverigt lokalmiljø. Mange løbeglade københavnere jogger rundt i Fælledparken, som også huser flere fodboldbaner og et udendørs træningsanlæg samt det store fodboldstadion, Telia Parken, hvor F.C. København har hjemmebane.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.70600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.56400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Poul Henningsens Plads</Data></Cell>
+			<Cell><Data ss:Type="String">Poul Henningsens Plads - Østre Gasværk Teater og et hav af spisesteder</Data></Cell>
+			<Cell><Data ss:Type="String">Stationen ved Poul Henningsens Plads ligger midt på Østerbro og er placeret midt mellem store, lokale omdrejningspunkter som Svanemøllehallen, Østre Gasværk Teater, Idrætshuset og Østerbro Stadion.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.70900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57700</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Trianglen</Data></Cell>
+			<Cell><Data ss:Type="String">Trianglen - røde og hvide faner og et anderledes museum</Data></Cell>
+			<Cell><Data ss:Type="String">F.C. København spiller kampe i den nærliggende Telia Parken, og 1. maj svajer røde faner, når Arbejdernes Internationale Kampdag afholdes i Fælledparken. Lige ved siden af stationen ligger ENIGMA, det tidligere post og telegrafmuseum, der har en helt særlig tilgang til næsten at være et museum.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.69900</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Østerport</Data></Cell>
+			<Cell><Data ss:Type="String">Østerport - et knudepunkt med smukke historiske  og grønne oplevelser</Data></Cell>
+			<Cell><Data ss:Type="String">Metrostationen ligger på Oslo Plads, som placerer sig uhyre tæt på Østre Anlægs nordlige ende. Stationen befinder sig inden for få minutters gang til smukke københavnske steder som det gamle fæstningsanlæg Kastellet eller de gule militærboligkvarter Nyboder, hvor du støder på maleriske vejnavne som f.eks. "Krokodillegade". Østerport er et af de fem knudepunkter på Cityringen, der optræder som "via-station", og som angiver kørselsretningen</Data></Cell>
+			<Cell><Data ss:Type="Number">55.69300</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">Marmorkirken</Data></Cell>
+			<Cell><Data ss:Type="String">Marmorkirken - gud, konge og kropsdele</Data></Cell>
+			<Cell><Data ss:Type="String">Metrostationen Marmorkirken ligger ikke blot ved siden af den smukke gamle kirke – den placerer sig også i midten af et Københavns ældste kvarterer, hvor store københavnske seværdigheder som Amalienborg Slotsplads, Langelinie og Kongens Have ligger inden for få minutters gang. Derudover byder området også på en række museer, deriblandt Designmuseum Danmark, Davids Samling, Amalienborgmuseet og Medicinsk Museion.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.68500</Data></Cell>
+			<Cell><Data ss:Type="Number">12.58900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Gammel Strand</Data></Cell>
+			<Cell><Data ss:Type="String">Gammel Strand - med 'Fiskerkonen' til forbrugsfest og folkestyre</Data></Cell>
+			<Cell><Data ss:Type="String">Skråt over for metrostationen på Gammel Strand ligger Christiansborg, hvor det danske Folketing udøver folkets vilje. Gammel Strand er en gammel havnepromenade, hvor velbesøgte restauranter, cocktailbarer og caféer ligger side om side. Tidligere lå her et fiskemarked, og statuen "Fiskerkonen" af Charles Svejstrup Madsen fra 1939 er rejst som en hyldest til netop dette. Området omkring Gammel Strand bærer også præg af Københavns kommercielle hovedpulsåre Strøget, der også løber forbi den nærliggende Højbro Plads.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.67800</Data></Cell>
+			<Cell><Data ss:Type="Number">12.57900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Rådhuspladsen</Data></Cell>
+			<Cell><Data ss:Type="String">Rådhuspladsen - byens midtpunkt i neonlysets skær</Data></Cell>
+			<Cell><Data ss:Type="String">Tag Metroen direkte til en af Københavns største og mest centrale pladser. Stationen befinder sig naturligvis lige ved siden af Københavns Rådhus, som også er dér, hvor Strøget begynder med butikker så langt øjet rækker. Rådhuspladsen er også samlingsstedet, når store danske sportspræstationer skal hyldes, og når danskerne samles for at skyde nytåret ind ved midnat.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.67600</Data></Cell>
+			<Cell><Data ss:Type="Number">12.56900</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">København H</Data></Cell>
+			<Cell><Data ss:Type="String">København H - et kontrastfyldt knudepunkt</Data></Cell>
+			<Cell><Data ss:Type="String">Metrostationen ligger kun få minutters gang fra store attraktioner som Tivoli og Ny Carlsberg Glyptotek. Tæt på stationen finder du også en af Vesterbros hovedpulsårer, Istedgade, blandt andet kendetegnet ved et farverigt natteliv, hvor vinbarer og restauranter blander sig med pushere og prostituerede. I samme område finder du også det populære madmekka, Kødbyen, hvor gamle industrihaller i dag bruges som hippe restauranter og natklubber. København H er et af de fem knudepunkter på Cityringen, der optræder som "via-station", og som angiver kørselsretningen.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.67100</Data></Cell>
+			<Cell><Data ss:Type="Number">12.56400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Enghave Plads</Data></Cell>
+			<Cell><Data ss:Type="String">Enghave Plads - Vesterbros hjerte</Data></Cell>
+			<Cell><Data ss:Type="String">For enden af Istedgade ligger Enghave Plads som en smørklat mellem cafeer, barer, restauranter og specialbutikker. Lige ved siden af metrostationen ligger det grønne åndehul med bemandet legeplads, Enghave Park, og spillestedet VEGA, og et par minutters gang derfra skyder det nybyggede Carlsberg Byen op.</Data></Cell>
+			<Cell><Data ss:Type="Number">55.66700</Data></Cell>
+			<Cell><Data ss:Type="Number">12.54600</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
